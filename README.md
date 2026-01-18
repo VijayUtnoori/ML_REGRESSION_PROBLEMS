@@ -53,6 +53,8 @@ To improve model stability and performance:
   - Preserved data while reducing noise
 
 > These techniques significantly improved model generalization, especially for tree-based models.
+> ⚠️ **Note:**  
+The target variable was **not transformed**, as its skewness was low
 
 ---
 
